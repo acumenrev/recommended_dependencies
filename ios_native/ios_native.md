@@ -32,6 +32,7 @@
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - SwiftGen is a tool to automatically generate Swift code for resources of your projects (like images, localised strings, etc), to make them type-safe to use.
 - [XCLogger](https://github.com/DaveWoodCom/XCGLogger): XCGLogger is the original debug log module for use in Swift project
 - [URLNavigator](https://github.com/devxoul/URLNavigator): ⛵️ Elegant URL Routing for Swift
+- [copyable-macro](https://github.com/hootsuite/copyable-macro): Copyable macro
 
 
 ## 🧪 Testing
