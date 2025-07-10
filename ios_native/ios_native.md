@@ -33,6 +33,9 @@
 - [XCLogger](https://github.com/DaveWoodCom/XCGLogger): XCGLogger is the original debug log module for use in Swift project
 - [URLNavigator](https://github.com/devxoul/URLNavigator): ⛵️ Elegant URL Routing for Swift
 - [copyable-macro](https://github.com/hootsuite/copyable-macro): Copyable macro
+- [SwiftierSwift](https://github.com/SwifterSwift/SwifterSwift): A handy collection of more than 500 native Swift extensions to boost your productivity.
+
+
 
 
 ## 🧪 Testing
@@ -41,6 +44,9 @@
 - [Mockingjay](https://github.com/kylef/Mockingjay) – Stub network requests for testing.
 - [Mocker](https://github.com/WeTransfer/Mocker): Mock Alamofire and URLSession requests without touching your code implementation
 - [CocoaDebug](https://github.com/acumenrev/CocoaDebug): - iOS Debugging tool
+- [DebugSwift](https://github.com/DebugSwift/DebugSwift): A toolkit to make debugging iOS applications easier 🚀
+
+
 
 ## 🔒 Security
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift): Crypto related functions and helpers
