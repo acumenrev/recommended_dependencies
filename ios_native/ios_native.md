@@ -11,7 +11,11 @@
 - [Kingfisher](https://github.com/onevcat/Kingfisher) – Powerful image downloading & caching.
 - [IQKeyboardManagerSwift](https://github.com/hackiftekhar/IQKeyboardManager): Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.
 - [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView): A collection of awesome loading animations
+
+## ❤️ SwiftUI
 - [LoaderUI](https://github.com/ninjaprox/LoaderUI): NVActivityIndicatorView implemented in SwiftUI.
+- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX): An exhaustive expansion of the standard SwiftUI library.
+
 
 ## 🌐 Networking
 - [Alamofire](https://github.com/Alamofire/Alamofire) – HTTP networking made elegant.
