@@ -38,6 +38,8 @@
 - [URLNavigator](https://github.com/devxoul/URLNavigator): ⛵️ Elegant URL Routing for Swift
 - [copyable-macro](https://github.com/hootsuite/copyable-macro): Copyable macro
 - [SwiftierSwift](https://github.com/SwifterSwift/SwifterSwift): A handy collection of more than 500 native Swift extensions to boost your productivity.
+- [Codextended](https://github.com/JohnSundell/Codextended): Extensions giving Swift's Codable API type inference super powers 🦸‍♂️🦹‍♀️
+
 
 
 
