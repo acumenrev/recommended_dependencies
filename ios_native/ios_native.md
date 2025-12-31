@@ -15,6 +15,7 @@
 ## ❤️ SwiftUI
 - [LoaderUI](https://github.com/ninjaprox/LoaderUI): NVActivityIndicatorView implemented in SwiftUI.
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX): An exhaustive expansion of the standard SwiftUI library.
+- [Shimmer](https://github.com/markiv/SwiftUI-Shimmer): Add shimmer effect to the SwiftUI view. Works with redact view modifer
 
 
 ## 🌐 Networking
